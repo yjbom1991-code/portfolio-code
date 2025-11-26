@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/*Google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap?family=Nanum+Gothic:wght@400;700;800&family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+/*웹목업 html css*/
+.web_img_box{width: 100%; max-width: 1600px; margin: 0 auto; padding-bottom: 50px;}
+.clear{clear: both;}
+
+#btnbox{width: 320px;}
+.btn1{ width: 150px; height: 50px; line-height: 50px; text-align: center; margin-top: 80px; background-color: #000; color: #fff; float: left; text-decoration: none}
+.btn2{ width: 150px; height: 50px; line-height: 50px; text-align: center;margin-top: 80px; background-color: #000; color: #fff; float: right; text-decoration: none}
+.btn1:hover{cursor: pointer; background-color: #666; color: #fff; text-decoration: none}
+.btn2:hover{cursor: pointer; background-color: #666; color: #fff; text-decoration: none}
+
+#btnbox2{width: 150px;}
+.btn2_1{ width: 150px; height: 50px; line-height: 50px; text-align: center; margin-top: 80px; background-color: #000; color: #fff; float: left; text-decoration: none}
+.btn2_1:hover{cursor: pointer; background-color: #666; color: #fff; text-decoration: none}
+
+.homepage_btn{margin: 0 30%; margin-top: 50px; margin-bottom: 50px; text-align: center; font-size: 24px; border: 1px #666 solid; padding: 20px 30px;}
+.bg_project03{background-color: #e0fbe8;}
